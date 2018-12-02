@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code",
+  "scripts": {
+    "test1-part1": "jest day1-part1.test.js --watch",
+    "test1-part2": "jest day1-part2.test.js --watch",
+    "test2-part1": "jest day2-part1.test.js --watch",
+    "test2-part2": "jest day2-part2.test.js --watch",
+    "test": "jest --watch"
+  },
+  "author": "Viktor Hesselbom",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
