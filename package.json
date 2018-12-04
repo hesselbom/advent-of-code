@@ -7,6 +7,8 @@
     "test2-part2": "jest day2-part2.test.js --watch",
     "test3-part1": "jest day3-part1.test.js --watch",
     "test3-part2": "jest day3-part2.test.js --watch",
+    "test4-part1": "jest day4-part1.test.js --watch",
+    "test4-part2": "jest day4-part2.test.js --watch",
     "test": "jest --watch"
   },
   "author": "Viktor Hesselbom",

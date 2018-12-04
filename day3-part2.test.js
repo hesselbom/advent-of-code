@@ -1,6 +1,6 @@
 const daythree = require('./day3-part2')
 
-test('day 4 part 1', () => {
+test('day 3 part 2', () => {
   expect(daythree('#1 @ 1,3: 4x4\n#2 @ 3,1: 4x4\n#3 @ 5,5: 2x2')).toBe(3)
 
   console.log(daythree(`#1 @ 306,433: 16x11
